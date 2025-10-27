@@ -1,0 +1,64 @@
+2025-10-27 05:51:34,016 [INFO]: Added 10 of apple
+2025-10-27 05:51:34,017 [INFO]: Added 2 of banana
+2025-10-27 05:51:34,017 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 05:51:34,017 [INFO]: Removed 3 of apple
+2025-10-27 05:51:34,017 [ERROR]: 'orange not found in stock data.'
+2025-10-27 05:51:34,017 [INFO]: Inventory data saved successfully.
+2025-10-27 05:51:34,018 [INFO]: Inventory data loaded successfully.
+2025-10-27 05:51:34,018 [INFO]: Program execution completed successfully.
+2025-10-27 05:58:54,569 [INFO]: Added 10 of apple
+2025-10-27 05:58:54,570 [INFO]: Added 2 of banana
+2025-10-27 05:58:54,570 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 05:58:54,570 [INFO]: Removed 3 of apple
+2025-10-27 05:58:54,570 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 05:58:54,570 [INFO]: Inventory data saved successfully.
+2025-10-27 05:58:54,570 [INFO]: Inventory data loaded successfully.
+2025-10-27 05:58:54,571 [INFO]: Program execution completed successfully.
+2025-10-27 06:06:05,870 [INFO]: Added 10 of apple
+2025-10-27 06:06:05,870 [INFO]: Added 2 of banana
+2025-10-27 06:06:05,870 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 06:06:05,870 [INFO]: Removed 3 of apple
+2025-10-27 06:06:05,870 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 06:06:05,871 [INFO]: Inventory data saved successfully.
+2025-10-27 06:06:05,871 [INFO]: Inventory data loaded successfully.
+2025-10-27 06:06:05,872 [INFO]: Program execution completed successfully.
+2025-10-27 06:07:18,670 [INFO]: Added 10 of apple
+2025-10-27 06:07:18,670 [INFO]: Added 2 of banana
+2025-10-27 06:07:18,671 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 06:07:18,671 [INFO]: Removed 3 of apple
+2025-10-27 06:07:18,671 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 06:07:18,671 [INFO]: Inventory data saved successfully.
+2025-10-27 06:07:18,671 [INFO]: Inventory data loaded successfully.
+2025-10-27 06:07:18,672 [INFO]: Program execution completed successfully.
+2025-10-27 06:08:21,336 [INFO]: Added 10 of apple
+2025-10-27 06:08:21,337 [INFO]: Added 2 of banana
+2025-10-27 06:08:21,337 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 06:08:21,337 [INFO]: Removed 3 of apple
+2025-10-27 06:08:21,337 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 06:08:21,338 [INFO]: Inventory data saved successfully.
+2025-10-27 06:08:21,338 [INFO]: Inventory data loaded successfully.
+2025-10-27 06:08:21,338 [INFO]: Program execution completed successfully.
+2025-10-27 06:10:07,622 [INFO]: Added 10 of apple
+2025-10-27 06:10:07,622 [INFO]: Added 2 of banana
+2025-10-27 06:10:07,623 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 06:10:07,623 [INFO]: Removed 3 of apple
+2025-10-27 06:10:07,623 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 06:10:07,623 [INFO]: Inventory data saved successfully.
+2025-10-27 06:10:07,623 [INFO]: Inventory data loaded successfully.
+2025-10-27 06:10:07,623 [INFO]: Program execution completed successfully.
+2025-10-27 06:11:15,734 [INFO]: Added 10 of apple
+2025-10-27 06:11:15,734 [INFO]: Added 2 of banana
+2025-10-27 06:11:15,734 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 06:11:15,734 [INFO]: Removed 3 of apple
+2025-10-27 06:11:15,734 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 06:11:15,735 [INFO]: Inventory data saved successfully.
+2025-10-27 06:11:15,736 [INFO]: Inventory data loaded successfully.
+2025-10-27 06:11:15,736 [INFO]: Program execution completed successfully.
+2025-10-27 06:12:50,347 [INFO]: Added 10 of apple
+2025-10-27 06:12:50,348 [INFO]: Added 2 of banana
+2025-10-27 06:12:50,348 [WARNING]: Invalid item or quantity type: item=123 (<class 'int'>), qty=ten (<class 'str'>)
+2025-10-27 06:12:50,348 [INFO]: Removed 3 of apple
+2025-10-27 06:12:50,348 [ERROR]: Error removing item: 'orange not found in stock data.'
+2025-10-27 06:12:50,349 [INFO]: Inventory data saved successfully.
+2025-10-27 06:12:50,349 [INFO]: Inventory data loaded successfully.
+2025-10-27 06:12:50,349 [INFO]: Program execution completed successfully.
